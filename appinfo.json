@@ -1,0 +1,115 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "BOBdotEXE",
+    "longName": "PEbble Terminal",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bg_processed_bwcolor.png",
+                "name": "pet_bg",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/hakaricolor.png",
+                "menuIcon": true,
+                "name": "app_icon",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/blink_stg1.png",
+                "name": "frame_1",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/blink_stg2.png",
+                "name": "frame_2_6",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/blink_stg3.png",
+                "name": "frame_7_8",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/blink_stg4.png",
+                "name": "frame_9",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/clock_bg_closed.png",
+                "name": "clock_closed",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/clock_bg_frame_2.png",
+                "name": "clock_2",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/clock_bg_frame_3.png",
+                "name": "clock_3",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/clock_bg_frame_4.png",
+                "name": "clock_4",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/clock_bg_processed.png",
+                "name": "clock_bg",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/disconnect_processed.png",
+                "name": "dissconnect",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/HP_processed_lite.png",
+                "name": "hp_box",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "characterRegex": "[0-9%-]",
+                "file": "fonts/DigitalGraphicLabs.html",
+                "name": "FONT_HP_15",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/megaman",
+                "name": "megaman",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Megaman PET",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "06120d10-58ad-4db5-8037-dd7e6d50abdc",
+    "versionLabel": "0.48",
+    "watchapp": {
+        "watchface": true
+    }
+}
