@@ -1,5 +1,5 @@
-# NaviEngine
-Welcome to Navi Engine! (v2.8)
+# NaviEngine v2.8
+Welcome to Navi Engine!
 The open source Pebble smartwatch PET Engine!
 At the moment, we only support the pebble time, and pebble time steel.
 
