@@ -1,0 +1,109 @@
+{
+    "author": "BOBdotEXE",
+    "dependencies": {},
+    "keywords": [],
+    "name": "megaman-pet",
+    "pebble": {
+        "displayName": "PEbble Terminal",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/HP_processed_lite.png",
+                    "name": "hp_box",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/hakari.png",
+                    "menuIcon": true,
+                    "name": "app_icon",
+                    "targetPlatforms": [
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/blink_stg1.png",
+                    "name": "frame_1",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/disconnect_processed.png",
+                    "name": "dissconnect",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/clock_bg_closed.png",
+                    "name": "clock_closed",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/clock_bg_frame_4.png",
+                    "name": "clock_4",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/clock_bg_frame_2.png",
+                    "name": "clock_2",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/clock_bg_processed.png",
+                    "name": "clock_bg",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/newnew_megaman_processed_comp.png",
+                    "name": "megaman",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bg_processed_bw.png",
+                    "name": "pet_bg",
+                    "targetPlatforms": [
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "characterRegex": "[0-9%-]",
+                    "file": "fonts/!DigitalGraphicLabs.html",
+                    "name": "FONT_HP_15",
+                    "type": "font"
+                },
+                {
+                    "file": "images/blink_stg4.png",
+                    "name": "frame_9",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/blink_stg3.png",
+                    "name": "frame_7_8",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/blink_stg2.png",
+                    "name": "frame_2_6",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/clock_bg_frame_3.png",
+                    "name": "clock_3",
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "06120d10-58ad-4db5-8037-dd7e6d50abdc",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.48.0"
+}
